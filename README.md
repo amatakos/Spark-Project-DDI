@@ -7,6 +7,6 @@ The first part of the project involved finding a median from 1 billion floats in
 
 ## Part 2 
 
-The second part involved the matrix multiplication $A A^T A$, where A is a $1.000.000$ x $1.000$ matrix on the cluster using PySpark.
+The second part involved the matrix multiplication $A A^T A$, where A is a $1.000.000$ x $1.000$ matrix on the cluster using PySpark. Grade: TBA
 
 For more info, the reports for both projects are available. 
